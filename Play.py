@@ -80,5 +80,5 @@ def play():
             break
 
         play_again = input("Do you want to play again? (y/n) ").lower()
-        if play_again != 'y':
+        if play_again == 'n':
             break
