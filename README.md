@@ -8,6 +8,7 @@ Welcome to the **Dice Game**! This project is a fun and interactive Python imple
 - 🎲 Random dice rolls with fair outcomes
 - 🏆 Score tracking
 - 🔁 Play as many rounds as you like
+- 🎮 You can play it single-player or multi-player
 
 ## 🛠️ Technologies Used
 
